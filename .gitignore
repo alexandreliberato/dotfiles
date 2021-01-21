@@ -1,0 +1,9 @@
+# ignore all files
+*
+
+# but
+!.gitignore
+!.cshrc
+!.Xresources
+!.xinitrc
+!.scripts
